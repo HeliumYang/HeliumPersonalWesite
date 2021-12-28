@@ -1,4 +1,6 @@
+---
 permalink: /about/
+---
 
 ## Welcome to GitHub Pages
 
